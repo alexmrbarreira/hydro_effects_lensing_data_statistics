@@ -14,11 +14,11 @@ Crucial to this calculation was the development, for the first time, of Separate
 
 ### Code overview
 
-- The code prepare_for_lensing.py defines global parameters and functions. It is imported by the other scripts.
+- *prepare_for_lensing.py* defines global parameters and functions. It is imported by the other scripts.
 
-- The file compute_kappa_spectra.py computes the 2-point and the squeezed 3-point function.
+- *compute_kappa_spectra.py* computes the 2-point and the squeezed 3-point function.
   
-- The files compute_cov_g.py and compute_cov_ssc_limber.py compute the 2-point function covariance (which is a 4-point function). It includes the two most important contributions: the Gaussian (cov_g) and the super-sample covariance (cov_ssc) terms.
+- *compute_cov_g.py* and *compute_cov_ssc_limber.py* compute the 2-point function covariance (which is a 4-point function). It includes the two most important contributions: the Gaussian (cov_g) and the super-sample covariance (cov_ssc) terms.
 
 - The folder lookup_tables/ contains tables with 3D power spectra, and N-body simulation data used in the calculation.
 
