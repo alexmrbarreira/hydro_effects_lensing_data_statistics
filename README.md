@@ -1,6 +1,6 @@
 # Hydrodynamical effects on higher-order lensing statistics
 
-This code works out the impact of hydrodynamical baryonic feedback effects on 2-, 3 and 4-point weak lensing data statistics. This was used in the numerical analysis of the paper:
+This code works out the impact of hydrodynamical baryonic feedback effects on 2-, 3- and 4-point weak lensing data statistics. This was used in the numerical analysis of the paper:
 
 - Barreira et al 2020, https://arxiv.org/abs/1904.02070
 
