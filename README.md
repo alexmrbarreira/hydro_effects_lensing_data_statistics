@@ -2,7 +2,7 @@
 
 This code works out the impact of hydrodynamical baryonic feedback effects on 2-, 3- and 4-point weak lensing data statistics. This was used in the numerical analysis of the paper:
 
-- Barreira et al 2020, https://arxiv.org/abs/1904.02070
+- Barreira et al 2019, https://arxiv.org/abs/1904.02070
 
 The calculation of the 3- and 4-point functions uses the formalism of the [Response Approach to Perturbation Theory](https://arxiv.org/abs/1703.09212), and the baryonic effects are according to the IllustrisTNG galaxy formation model.
 
