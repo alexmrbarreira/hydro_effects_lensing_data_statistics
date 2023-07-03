@@ -24,7 +24,7 @@ The calculation of the 3- and 4-point functions uses the formalism of the (Respo
 
 ### Gallery
 
-Summary of the kinematic regimes in $k_1-k_2$ space
+Impact of hydrodynamical effects on the gravity-only calculation of 2-, 3- and 4-point weak lensing functions
 
-<img src="plots/.png" width="1000" height=auto/>
+<img src="plots/fig_kappa_spectra.png" width="1000" height=auto/>
 
