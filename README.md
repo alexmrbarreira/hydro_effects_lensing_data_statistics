@@ -13,8 +13,7 @@ The calculation of the 3- and 4-point functions uses the formalism of the (Respo
 ### Code overview
 
 - prepare_for_lensing.py
-
-This 
+  - This 
 
 - The scripts in compute_cov/ execute the covariance calculation
 - The scripts in plots/ make plots (figures are stored here too).
