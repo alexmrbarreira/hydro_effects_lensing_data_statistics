@@ -12,20 +12,15 @@ The calculation of the 3- and 4-point functions uses the formalism of the (Respo
 
 ### Code overview
 
-- prepare_for_lensing.py
-  - This defines global parameters and functions. It is imported by the other scripts.
+- The code prepare_for_lensing.py defines global parameters and functions. It is imported by the other scripts.
 
-- compute_kappa_spectra.py
-  - This computes the 2-point and the squeezed 3-point function
+- The file compute_kappa_spectra.py computes the 2-point and the squeezed 3-point function.
   
-- compute_cov_g.py and compute_cov_ssc_limber.py
-  - This computes the 2-point function covariance (which is a 4-point function). It includes the two most important contributions: the Gaussian (cov_g) and the super-sample covariance (cov_ssc) terms.
+- The files compute_cov_g.py and compute_cov_ssc_limber.py compute the 2-point function covariance (which is a 4-point function). It includes the two most important contributions: the Gaussian (cov_g) and the super-sample covariance (cov_ssc) terms.
 
-- lookup_tables/
-  - This containts tables with 3D power spectra, as well as N-body simulation response function data used in the calculation
+- The folder lookup_tables/ contains tables with 3D power spectra, as well as N-body simulation response function data used in the calculation.
 
-- plots/
-  - The plotting scripts are in this folder
+- The folder plots/ contains the plotting scripts.
 
 ### Gallery
 
