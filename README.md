@@ -28,3 +28,7 @@ Impact of hydrodynamical effects on the gravity-only calculation of 2-, 3- and 4
 
 <img src="plots/fig_kappa_spectra.png" width="600" height=auto/>
 
+Impact of hydrodynamical effects on the covariance on signal-to-noise and goodness-of-fit for parameter inference analyses
+
+<img src="plots/fig_kappa_spectra.png" width="600" height=auto/>
+
