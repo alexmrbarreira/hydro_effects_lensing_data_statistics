@@ -18,7 +18,7 @@ The calculation of the 3- and 4-point functions uses the formalism of the (Respo
   
 - The files compute_cov_g.py and compute_cov_ssc_limber.py compute the 2-point function covariance (which is a 4-point function). It includes the two most important contributions: the Gaussian (cov_g) and the super-sample covariance (cov_ssc) terms.
 
-- The folder lookup_tables/ contains tables with 3D power spectra, and N-body simulation response function data used in the calculation.
+- The folder lookup_tables/ contains tables with 3D power spectra, and N-body simulation data used in the calculation.
 
 - The folder plots/ contains the plotting scripts.
 
