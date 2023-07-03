@@ -4,9 +4,7 @@ from pylab import *
 from scipy import interpolate, integrate, special
 from scipy.interpolate import RegularGridInterpolator, UnivariateSpline
 from numpy import random
-#from more_itertools import sort_together
 import pylab,  time
-#import healpy as hp
 import os
 import warnings
 warnings.filterwarnings("ignore", category=DeprecationWarning)
