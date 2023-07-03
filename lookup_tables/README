@@ -1,0 +1,16 @@
+
+        These tables were generated elsewhere for the IllustrisTNG cosmology:
+
+                Omega_m      = 0.3089
+                Omega_b      = 0.0486
+                h            = 0.6774
+                ns           = 0.967
+                sigma_8(z=0) = 0.816
+
+        The tables contain power spectra, their first and second derivatives w.r.t. k, and the growth-only response functions G1, G2 and GK.
+
+        For the spectra, there is the option in ../prepare_for_lensing.py to choose between CAMB or the Coyote emulator.
+
+        For the responses, they come from separate universe simulation measurements.
+
+
